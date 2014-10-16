@@ -1,0 +1,27 @@
+c:\users\acer\documents\visual studio 2013\Projects\Super Shop\Super Shop App\bin\Debug\Super Shop App.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super Shop App.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super_Shop_App.SuperShopUI.resources
+c:\users\acer\documents\visual studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super_Shop_App.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super Shop App.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\Super Shop\Super Shop App\bin\Debug\Super Shop App.exe
+c:\users\acer\documents\visual studio 2013\Projects\Super Shop\Super Shop App\bin\Debug\Super Shop App.pdb
+c:\users\acer\documents\visual studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super Shop App.exe
+c:\users\acer\documents\visual studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super Shop App.pdb
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\14-09014\Super Shop\Super Shop App\bin\Debug\Super Shop App.exe.config
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\14-09014\Super Shop\Super Shop App\obj\Debug\Super Shop App.exe
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\14-09014\Super Shop\Super Shop App\obj\Debug\Super Shop App.pdb
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\14-09014\Super Shop\Super Shop App\bin\Debug\Super Shop App.exe
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\14-09014\Super Shop\Super Shop App\bin\Debug\Super Shop App.pdb
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\14-09014\Super Shop\Super Shop App\obj\Debug\Super Shop App.csprojResolveAssemblyReference.cache
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\14-09014\Super Shop\Super Shop App\obj\Debug\Super_Shop_App.SuperShopUI.resources
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\14-09014\Super Shop\Super Shop App\obj\Debug\Super_Shop_App.Properties.Resources.resources
+C:\Users\Shapla\Documents\Visual Studio 2013\Projects\14-09014\Super Shop\Super Shop App\obj\Debug\Super Shop App.csproj.GenerateResource.Cache
+C:\Users\cse\Documents\Visual Studio 2013\Projects\Super Shop\Super Shop App\bin\Debug\Super Shop App.exe.config
+C:\Users\cse\Documents\Visual Studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super Shop App.exe
+C:\Users\cse\Documents\Visual Studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super Shop App.pdb
+C:\Users\cse\Documents\Visual Studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super Shop App.csprojResolveAssemblyReference.cache
+C:\Users\cse\Documents\Visual Studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super_Shop_App.SuperShopUI.resources
+C:\Users\cse\Documents\Visual Studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super_Shop_App.Properties.Resources.resources
+C:\Users\cse\Documents\Visual Studio 2013\Projects\Super Shop\Super Shop App\obj\Debug\Super Shop App.csproj.GenerateResource.Cache
+C:\Users\cse\Documents\Visual Studio 2013\Projects\Super Shop\Super Shop App\bin\Debug\Super Shop App.exe
+C:\Users\cse\Documents\Visual Studio 2013\Projects\Super Shop\Super Shop App\bin\Debug\Super Shop App.pdb
